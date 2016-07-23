@@ -1,0 +1,10 @@
+span{
+	display: block;
+	margin: 25px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+article section:nth-child(even){
+	border-style: solid;
+}
